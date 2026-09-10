@@ -3,7 +3,7 @@
 Public lecture materials for *Software Programming* (IGS1931), Inha University.
 
 This repo holds **Thursday lecture** notebooks only — no labs, no solution
-keys. One folder per week, e.g. `week05-functions/`. Each notebook is
+keys. One folder per week, e.g. `week02-functions/`. Each notebook is
 meant to be opened and run in Google Colab during its own class.
 
 **Before you edit anything in Colab:** click the Colab badge below, then
@@ -19,7 +19,7 @@ repo) and continue the exercises locally using PyCharm or VS Code — see
 
 | Week | Topic | Notebook |
 |---|---|---|
-| Week 5 | Functions — From Repetition to Reuse | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week05-functions/functions_intro_student.ipynb) |
+| Week 2 | Functions — From Repetition to Reuse | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week02-functions/functions_intro_student.ipynb) |
 
 ## Running Locally (VS Code / PyCharm + venv)
 
@@ -38,9 +38,9 @@ Once you're past the first Colab session for a topic, work locally instead:
    - macOS/Linux: `source venv/bin/activate`
    - Windows (PowerShell): `venv\Scripts\Activate.ps1`
    - Windows (cmd.exe): `venv\Scripts\activate.bat`
-4. **Install Jupyter support:**
+4. **Install dependencies:**
    ```bash
-   pip install notebook ipykernel
+   pip install -r requirements.txt
    ```
 5. **Open the notebook:**
    - **VS Code:** install the *Python* and *Jupyter* extensions, open the
