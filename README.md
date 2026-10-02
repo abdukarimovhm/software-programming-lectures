@@ -22,6 +22,7 @@ Colab during its own class, then continued locally afterward.
 |---|---|---|
 | Week 3 | Functions Homework | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/homework/week03_functions_homework_student.ipynb) |
 | Week 5 | Conditionals and Recursion Homework | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/homework/week05_conditionals_recursion_homework_student.ipynb) |
+| Week 5 | Rock Paper Scissors Assignment (submit Levels 1–4+) | [Instructions](homework/week05_rps_assignment.md) · [Starter `.py`](homework/week05_rps_starter.py) |
 
 ## Getting a Working Copy
 
