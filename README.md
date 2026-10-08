@@ -15,6 +15,7 @@ Colab during its own class, then continued locally afterward.
 | Week 2 | Functions — From Repetition to Reuse | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week02-functions/functions_intro_student.ipynb) |
 | Week 3 | Functions Practice — Building Fluency | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week03-functions-practice/functions_practice_student.ipynb) |
 | Week 5 | Conditionals and Recursion — Practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week05-conditionals-recursion/conditionals_recursion_student.ipynb) |
+| Week 6 | Loops — Practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week06-loops/loops_student.ipynb) |
 
 ## Homework
 
