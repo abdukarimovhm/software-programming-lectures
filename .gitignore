@@ -1,2 +1,5 @@
 # Instructor editions contain solutions - never commit
 *_instructor.ipynb
+
+# Lecture slide plans are private prep notes - never commit
+lecture_slides_plan.md
