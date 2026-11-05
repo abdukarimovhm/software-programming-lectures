@@ -18,6 +18,7 @@ Colab during its own class, then continued locally afterward.
 | Week 6 | Loops — Practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week06-loops/loops_student.ipynb) |
 | Week 7 | Bitwise Operators — Why, How & Practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week07-iteration-operators/iteration_operators_student.ipynb) |
 | Week 9 | Strings — Review, Debug & Practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week09-strings/strings_student.ipynb) |
+| Week 10 | Lists — Review, Debug & Escape 🔐 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week10-lists/lists_student.ipynb) |
 | Midterm | Midterm Review — Predict the Output & Find the Bug | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/midterm-review/midterm_review_student.ipynb) |
 
 ## Homework
