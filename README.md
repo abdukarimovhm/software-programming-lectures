@@ -22,6 +22,19 @@ Colab during its own class, then continued locally afterward.
 | Week 11 | Files — Save It, Load It, Find It 🕵️ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week11-files/files_student.ipynb) |
 | Midterm | Midterm Review — Predict the Output & Find the Bug | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/midterm-review/midterm_review_student.ipynb) |
 
+## Example Project: TypeSprint
+
+A finished **tkinter typing speed game**, made as a reference for the final project. It covers file operations, a GUI, functions, data management and report generation, and it shows how to organise a repo and set up a venv.
+
+- Repository: [github.com/abdukarimovhm/typesprint](https://github.com/abdukarimovhm/typesprint) (setup, run and architecture are in its README)
+- It is also included here as a **git submodule** in [`typesprint/`](typesprint). To get it together with the lectures:
+
+```bash
+git clone --recurse-submodules https://github.com/abdukarimovhm/software-programming-lectures.git
+# already cloned without it? run this inside the repo:
+git submodule update --init
+```
+
 ## Homework
 
 | Week | Topic | Notebook |

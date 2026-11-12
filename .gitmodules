@@ -1,0 +1,3 @@
+[submodule "typesprint"]
+	path = typesprint
+	url = https://github.com/abdukarimovhm/typesprint.git
