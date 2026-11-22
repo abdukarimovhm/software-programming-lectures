@@ -1,7 +1,6 @@
 Assignment 3 - Loops, Strings and Lists
 Deadline: Friday, November 27, 2026, 11:59 PM
 
-1. Download assignment03_loops_strings_lists_student.ipynb from the
-   homework folder: https://github.com/abdukarimovhm/software-programming-lectures
+1. Download assignment03_loops_strings_lists_student.ipynb from i-Class.
 2. Answer all 10 questions inside the notebook. Individual work.
 3. Upload the finished .ipynb file to i-Class before the deadline.
