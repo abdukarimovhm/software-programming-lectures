@@ -1,60 +1,7 @@
-Software Programming (IGS1931)
 Assignment 3 - Loops, Strings and Lists
-
-Deadline: Friday, November 27, 2026, 11:59 PM
-Submit on: i-Class
-
-------------------------------------------------------------
-WHAT YOU GET
-------------------------------------------------------------
-One Jupyter notebook with 10 questions:
-
-  Part A - Debugging (Questions 1-3)
-    The code is already written but has exactly one bug.
-    Fix it in the same cell and add a short comment saying what was wrong.
-
-  Part B - Problem Set (Questions 4-10)
-    Write the function yourself in the empty code cell under each question.
-    Test it with the examples given in the question.
-
-------------------------------------------------------------
-STEP 1 - DOWNLOAD THE NOTEBOOK
-------------------------------------------------------------
-File: assignment03_loops_strings_lists_student.ipynb
-
-Option A - GitHub:
-  1. Go to https://github.com/abdukarimovhm/software-programming-lectures
-  2. Open the "homework" folder.
-  3. Open assignment03_loops_strings_lists_student.ipynb
-  4. Click the "Download raw file" button (the down-arrow icon above the file).
-
-Option B - Google Colab:
-  1. On the GitHub page above, click the "Open In Colab" badge for
-     Assignment 3 in the Homework table.
-  2. Immediately do File -> Save a copy in Drive, and work on your copy.
-
-------------------------------------------------------------
-STEP 2 - DO THE WORK
-------------------------------------------------------------
-- Work in Google Colab, VS Code or Jupyter, whichever you prefer.
-- Answer all 10 questions in the notebook itself.
-- Use only what we have covered in class. No dictionaries, tuples,
-  zip, enumerate or join.
-- Before you submit, run every cell from top to bottom
-  (Colab: Runtime -> Run all) and make sure there are no errors.
-- This is individual work. Do not copy from classmates or from AI tools.
-
-------------------------------------------------------------
-STEP 3 - SUBMIT ON I-CLASS
-------------------------------------------------------------
-1. Download your finished notebook as an .ipynb file.
-   - Colab:   File -> Download -> Download .ipynb
-   - VS Code / Jupyter: the file is already saved on your computer.
-2. Log in to i-Class and open the Assignment 3 submission.
-3. Upload the .ipynb file and submit.
-
-Upload the .ipynb file only. Do not upload a PDF, a screenshot or a link.
-
 Deadline: Friday, November 27, 2026, 11:59 PM
 
-If you have questions, ask in class or contact the TA before the deadline.
+1. Download assignment03_loops_strings_lists_student.ipynb from the
+   homework folder: https://github.com/abdukarimovhm/software-programming-lectures
+2. Answer all 10 questions inside the notebook. Individual work.
+3. Upload the finished .ipynb file to i-Class before the deadline.
