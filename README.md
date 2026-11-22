@@ -43,6 +43,7 @@ git submodule update --init
 | Week 3 | Functions Homework | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/homework/week03_functions_homework_student.ipynb) |
 | Week 5 | Conditionals and Recursion Homework | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/homework/week05_conditionals_recursion_homework_student.ipynb) |
 | Week 5 | Rock Paper Scissors Assignment (submit Levels 1–4+) | [Instructions](homework/week05_rps_assignment.md) · [Starter `.py`](homework/week05_rps_starter.py) |
+| Weeks 6–10 | Assignment 3 — Loops, Strings and Lists | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/homework/assignment03_loops_strings_lists_student.ipynb) · [Instructions](homework/assignment03_instructions.txt) (due Nov 27) |
 
 ## Getting a Working Copy
 
