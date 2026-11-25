@@ -1,5 +1,11 @@
 # Instructor editions contain solutions - never commit
 *_instructor.ipynb
+*_instructor.py
+instructor_guide.md
 
 # Lecture slide plans are private prep notes - never commit
 lecture_slides_plan.md
+
+# Files made while running lecture apps, and private slide images
+tasks.txt
+slide_images/

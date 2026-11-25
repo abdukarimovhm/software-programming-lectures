@@ -21,7 +21,10 @@ Colab during its own class, then continued locally afterward.
 | Week 10 | Lists — Review, Debug & Escape 🔐 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week10-lists/lists_student.ipynb) |
 | Week 11 | Files — Save It, Load It, Find It 🕵️ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week11-files/files_student.ipynb) |
 | Week 12 | Tuples, Dictionaries & Charts — Lock It, Look It Up, Plot It | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week12-tuples-dicts-matplotlib/tuples_dicts_plots_student.ipynb) |
+| Week 13 | Tkinter GUI — Predict It, Fix It, Build It | [Folder `week13-tkinter-gui/`](week13-tkinter-gui) · `.py` files, run locally in IDLE (tkinter does not run in Colab) |
 | Midterm | Midterm Review — Predict the Output & Find the Bug | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/midterm-review/midterm_review_student.ipynb) |
+
+**Week 13 runs on your own Python, not Colab.** Download the files (green **Code → Download ZIP** on GitHub, or the zip on i-Class), open the `week13-tkinter-gui` folder, open a `.py` file in IDLE and press **F5**. First run `00_check_tkinter.py` to check that tkinter works.
 
 ## Example Project: TypeSprint
 
