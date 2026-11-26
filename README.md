@@ -3,9 +3,9 @@
 Public lecture materials for *Software Programming* (IGS1931), Inha University.
 
 This repo holds **Thursday lecture** notebooks and take-home **homework**
-assignments — no solution keys. One folder per week for lectures, e.g.
-`week02-functions/`, plus a top-level `homework/` folder for homework
-notebooks. Each lecture notebook is meant to be opened and run in Google
+assignments. One folder per week for lectures, e.g. `week02-functions/`, plus
+a top-level `homework/` folder for homework notebooks and a `solutions/`
+folder for answers, posted after each class or deadline. Each lecture notebook is meant to be opened and run in Google
 Colab during its own class, then continued locally afterward.
 
 ## Lectures
@@ -47,6 +47,23 @@ git submodule update --init
 | Week 5 | Conditionals and Recursion Homework | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/homework/week05_conditionals_recursion_homework_student.ipynb) |
 | Week 5 | Rock Paper Scissors Assignment (submit Levels 1–4+) | [Instructions](homework/week05_rps_assignment.md) · [Starter `.py`](homework/week05_rps_starter.py) |
 | Weeks 6–10 | Assignment 3 — Loops, Strings and Lists | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/homework/assignment03_loops_strings_lists_student.ipynb) · [Instructions](homework/assignment03_instructions.txt) (due Nov 27) |
+
+## Solutions
+
+Try each notebook yourself first, then check your work. Solutions are posted in [`solutions/`](solutions) **after** each class (lessons) or **after** the deadline (homework and quizzes).
+
+| Week | Topic | Solutions |
+|---|---|---|
+| Week 5 | Conditionals and Recursion — Practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/solutions/week05-conditionals-recursion/conditionals_recursion_solution.ipynb) |
+| Week 6 | Loops — Practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/solutions/week06-loops/loops_solution.ipynb) |
+| Week 7 | Bitwise Operators — Why, How & Practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/solutions/week07-iteration-operators/iteration_operators_solution.ipynb) |
+| Week 9 | Strings — Review, Debug & Practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/solutions/week09-strings/strings_solution.ipynb) |
+| Week 10 | Lists — Review, Debug & Escape | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/solutions/week10-lists/lists_solution.ipynb) |
+| Week 11 | Files — Save It, Load It, Find It | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/solutions/week11-files/files_solution.ipynb) |
+| Week 12 | Tuples, Dictionaries & Charts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/solutions/week12-tuples-dicts-matplotlib/tuples_dicts_plots_solution.ipynb) |
+| Midterm | Midterm Review — Predict the Output & Find the Bug | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/solutions/midterm-review/midterm_review_solution.ipynb) |
+| Quiz | Weeks 9–11 Quiz (Business) — answer key | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/solutions/quiz/week09-11_strings_lists_files_quiz_business_solution.ipynb) |
+| Quiz | Weeks 9–11 Quiz (Engineering) — answer key | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/solutions/quiz/week09-11_strings_lists_files_quiz_engineering_solution.ipynb) |
 
 ## Getting a Working Copy
 

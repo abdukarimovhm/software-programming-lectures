@@ -1,4 +1,5 @@
-# Instructor editions contain solutions - never commit
+# Answer keys are drafted as *_instructor.* and stay private until they are
+# released (after the class or deadline) to solutions/<week>/<name>_solution.*
 *_instructor.ipynb
 *_instructor.py
 instructor_guide.md
@@ -8,4 +9,8 @@ lecture_slides_plan.md
 
 # Files made while running lecture apps, and private slide images
 tasks.txt
+budget.png
 slide_images/
+
+# macOS
+.DS_Store
